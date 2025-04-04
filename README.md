@@ -5,7 +5,7 @@ Welcome to my personal portfolio! This website showcases my projects, skills, an
 
 🚀 Live Demo
 
-🔗 View Portfolio https://github.com/TestVigilante/Stanley-Portfolio.git
+🔗 View Portfolio https://testvigilante.github.io/Stanley-Portfolio/
 
 📌 Features
 
