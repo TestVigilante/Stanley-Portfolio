@@ -37,7 +37,7 @@ Hosting: GitHub
 
 Clone the repository:
 
-git clone https://github.com/Miltonnare/myPortfolio.git
+git clone https://github.com/TestVigilante/Stanley-Portfolio.git
 
 cd Portfolio
 
@@ -45,7 +45,7 @@ Open index.html in a browser
 
 🌍 Deployment
 
-Netlify – https://miltonnaresportfolio.netlify.app/
+GitHub -
 
 📞 Contact
 
