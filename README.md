@@ -45,7 +45,7 @@ Open index.html in a browser
 
 🌍 Deployment
 
-GitHub -
+GitHub - https://testvigilante.github.io/Stanley-Portfolio/
 
 📞 Contact
 
